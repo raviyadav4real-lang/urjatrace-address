@@ -1,0 +1,10 @@
+{
+  "about": "UrjaTrace address card: where each division's UrjaTrace server can be reached. Phones read it only when they lose their server (plan item 88). No survey or personal data here.",
+  "units": [
+    {
+      "unit_id": "6c519e05-3ee4-443d-9a29-3147c2302dac",
+      "division": "EDD-2 KHEKRA BAGHPAT",
+      "addresses": ["https://desktop-if0amse.tail31c1c5.ts.net"]
+    }
+  ]
+}
